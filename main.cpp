@@ -1,5 +1,10 @@
 #include <iostream>
 
+
+void hello(){
+	std::cout << "hello everybody!" << std::endl;
+}
+
 int main()
 {
 	int a = 0, b = 0, res = 0;
