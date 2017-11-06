@@ -1,4 +1,0 @@
-master
-branch dev1 add the first line
-add a new line
-master add a line
