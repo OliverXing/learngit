@@ -16,6 +16,11 @@ void conflict2()
 
 void conflict3()
 {
+	cout << "this is conflic3 func" << endl;
+}
+
+void glass()
+{
 	cout << "this is another func" << endl;
 }
 
