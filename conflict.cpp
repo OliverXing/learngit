@@ -14,6 +14,11 @@ void conflict2()
 	cout << "this is another func" << endl;
 }
 
+void conflict3()
+{
+	cout << "this is another func" << endl;
+}
+
 int main()
 {
     sayHello();
