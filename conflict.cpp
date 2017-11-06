@@ -7,6 +7,8 @@ void sayHello()
     cout << "hello everybody, welcome to the git's world!";
 }
 
+void conflict(){}
+
 int main()
 {
     sayHello();
